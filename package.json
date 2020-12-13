@@ -1,0 +1,57 @@
+{
+    "name": "galax-theme",
+    "displayName": "Galax Theme",
+    "description": "A modern dark theme with a vaporwave color palette for all coders out there.",
+    "version": "0.0.1",
+    "publisher": "daniel-lvovsky",
+    "author":{
+        "name": "Daniel Lvovsky"
+    },
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "bugs": {
+        "url": "https://github.com/DanielLvovsky/GalaxTheme"
+    },
+    "repository": {
+        "url": "https://github.com/DanielLvovsky/GalaxTheme/issues"
+    },
+    "galleryBanner": {
+        "color": "#180f1d",
+        "theme": "dark"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Galax Theme",
+        "Dark Theme",
+        "VS Code Theme",
+        "Modern",
+        "Dark Mode",
+        "Daniel Lvovsky",
+        "purple",
+        "violet",
+        "blue",
+        "light blue",
+        "pink",
+        "white",
+        "hot pink",
+        "cyberpunk",
+        "vaporwave",
+        "vibrant",
+        "javascript",
+        "python",
+        "css"
+    ],
+    "icon":"images/icon/logo.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Galax Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Galax Theme-color-theme.json"
+            }
+        ]
+    }
+}
