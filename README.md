@@ -3,20 +3,23 @@
 [![Version](https://vsmarketplacebadge.apphb.com/version/daniel-lvovsky.galax-theme.svg?subject=Galax%20Theme&colorA=6a83f1&colorB=f72585)](https://marketplace.visualstudio.com/items?itemName=daniel-lvovsky.galax-theme)
 [![Rating](https://vsmarketplacebadge.apphb.com/rating-short/daniel-lvovsky.galax-theme.svg?label=Ratings&colorA=6a83f1&colorB=f72585)](https://marketplace.visualstudio.com/items?itemName=daniel-lvovsky.galax-theme&ssr=false#review-details)
 
+[![Downloads](https://vsmarketplacebadge.apphb.com/downloads/daniel-lvovsky.galax-theme.svg?label=Downloads&colorA=6a83f1&colorB=f72585)](https://marketplace.visualstudio.com/items?itemName=daniel-lvovsky.galax-theme)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs/daniel-lvovsky.galax-theme.svg?label=Installs&colorA=6a83f1&colorB=f72585)](https://marketplace.visualstudio.com/items?itemName=daniel-lvovsky.galax-theme)
+
+
+
 [![View on Github](https://img.shields.io/badge/-View%20on%20Github%20%20%20%E2%86%92-f0eff4.svg?colorB=6a83f1)](https://github.com/DanielLvovsky/GalaxTheme)
 
 ## About Theme
 Galax is a custom dark theme with a vaporwave color palette.
 
-![Screenshot1](images/screenshots/1.png)
+![Screenshot1](https://raw.githubusercontent.com/DanielLvovsky/GalaxTheme/main/images/screenshots/1.png)
 ---
-![Screenshot2](images/screenshots/2.png)
+![Screenshot2](https://raw.githubusercontent.com/DanielLvovsky/GalaxTheme/main/images/screenshots/2.png)
 ---
-![Screenshot3](images/screenshots/3.png)
+![Screenshot3](https://raw.githubusercontent.com/DanielLvovsky/GalaxTheme/main/images/screenshots/5.png)
 ---
-![Screenshot4](images/screenshots/4.png)
----
-![Screenshot5](images/screenshots/5.png)
+
 
 ---
 
